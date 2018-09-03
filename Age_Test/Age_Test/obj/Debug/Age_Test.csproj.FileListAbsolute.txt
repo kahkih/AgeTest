@@ -1,0 +1,7 @@
+c:\users\kkyau\source\repos\Age_Test\Age_Test\obj\Debug\Age_Test.csprojAssemblyReference.cache
+c:\users\kkyau\source\repos\Age_Test\Age_Test\obj\Debug\Age_Test.csproj.CoreCompileInputs.cache
+c:\users\kkyau\source\repos\Age_Test\Age_Test\bin\Debug\Age_Test.exe.config
+c:\users\kkyau\source\repos\Age_Test\Age_Test\bin\Debug\Age_Test.exe
+c:\users\kkyau\source\repos\Age_Test\Age_Test\bin\Debug\Age_Test.pdb
+c:\users\kkyau\source\repos\Age_Test\Age_Test\obj\Debug\Age_Test.exe
+c:\users\kkyau\source\repos\Age_Test\Age_Test\obj\Debug\Age_Test.pdb
